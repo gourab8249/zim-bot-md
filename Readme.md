@@ -10,6 +10,6 @@
 
 > A FUlly PRECIOUS COOL BOT BY DRIPS MEMES <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gourab8249t/zim-bot-md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gourab8249/zim-bot-md)
 
 ## BEHOLD THE NEW
